@@ -1,10 +1,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vgsan)  |  ![](https://github-readme-stats.vercel.app/api?username=vgsan)
+:-------------------------:|:-------------------------:
 
 <!--
 ### Hi there 👋
-
-![](https://github-readme-stats.vercel.app/api?username=vgsan)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vgsan)
-:-------------------------:|:-------------------------:
 
 <img src="https://github-readme-stats.vercel.app/api?username=vgsan" alt="stats-vgsan" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgsan" alt="stats-top-langs" />
