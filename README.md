@@ -1,6 +1,12 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=vgsan" alt="stats-vgsan" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgsan" alt="stats-top-langs" />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vgsan&repo=python-api-django-vs-flask" alt="repo-python-api-django-vs-flask" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vgsan&repo=Jboss-MSSql-Connetor" alt="repo-Jboss-MSSql-Connetor" />
 
 <!--
+### Hi there 👋
+
 **VgSan/VgSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
