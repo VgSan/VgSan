@@ -1,4 +1,3 @@
-:-------------------------:|:-------------------------:
 ![](https://github-readme-stats.vercel.app/api?username=vgsan)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vgsan)
 :-------------------------:|:-------------------------:
 
